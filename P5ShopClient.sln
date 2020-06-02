@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5ShopClient", "P5ShopClient.csproj", "{AD35C3F9-1476-483B-AB4E-22F66303BF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD35C3F9-1476-483B-AB4E-22F66303BF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD35C3F9-1476-483B-AB4E-22F66303BF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD35C3F9-1476-483B-AB4E-22F66303BF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD35C3F9-1476-483B-AB4E-22F66303BF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05148066-F3D2-49F0-B056-B07BB266F3AB}
+	EndGlobalSection
+EndGlobal
